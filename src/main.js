@@ -12,8 +12,8 @@ import qs  from 'qs'
 
 // import 'babel-polyfill'
 let token = document.getElementById('token').value;
-let httpur = 'https://test-api.ajzhan.com/';
-let httpurl = 'https://test-api.ajzhan.com/edge.php';
+let httpur = '';
+let httpurl = '';
 
 let ref = document.getElementById('refer').value;
 // console.log('获取页面token'+token);
